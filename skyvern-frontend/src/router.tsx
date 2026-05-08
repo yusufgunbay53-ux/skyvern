@@ -3,7 +3,7 @@ import { DebugToBuildRedirect } from "@/routes/workflows/DebugToBuildRedirect";
 import { BrowserSession } from "@/routes/browserSessions/BrowserSession";
 import { BrowserSessions } from "@/routes/browserSessions/BrowserSessions";
 import { PageLayout } from "./components/PageLayout";
-import { DiscoverPage } from "./routes/discover/DiscoverPage";
+import { AuotobotDashboard as DiscoverPage } from "./routes/discover/AuotobotDashboard";
 import { HistoryPage } from "./routes/history/HistoryPage";
 import { RootLayout } from "./routes/root/RootLayout";
 import { Settings } from "./routes/settings/Settings";
